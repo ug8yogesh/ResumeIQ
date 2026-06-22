@@ -82,16 +82,16 @@ ResumeIQ solves these challenges using Machine Learning, Natural Language Proces
 ## 📷 Screenshots
 
 ### ATS Analysis
-![ATS Analysis](assets/ats-analysis.jpg)
+![ATS Analysis](assets/ats-analysis.jpeg)
 
 ### Bulk Resume Comparison
-![Bulk Compare](assets/bulk-compare.jpg)
+![Bulk Compare](assets/bulk-compare.jpeg)
 
 ### Cover Letter Generator
-![Cover Letter](assets/cover-letter.jpg)
+![Cover Letter](assets/cover-letter.jpeg)
 
 ### Chat With Resume
-![Chat Resume](assets/chat-resume.jpg)
+![Chat Resume](assets/chat-resume.jpeg)
 
 ---
 
