@@ -27,7 +27,10 @@ from utils.ui_theme import (
 
 load_dotenv()
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GEMINI_API_KEY = st.secrets.get(
+    "GEMINI_API_KEY",
+    os.getenv("GEMINI_API_KEY")
+)
 
 st.set_page_config(page_title="AI Resume Analyzer", layout="wide", page_icon="📡")
 inject_theme()
