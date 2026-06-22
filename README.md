@@ -111,9 +111,11 @@ ResumeIQ solves these challenges using Machine Learning, Natural Language Proces
 ### Generative AI
 - Gemini API
 
-### Data Processing
+### Data Science & Experimentation
 - Pandas
 - NumPy
+- Jupyter Notebook
+### PDF Processing
 - PyPDF2
 
 ### Report Generation
@@ -233,21 +235,30 @@ streamlit run app.py
 
 ## ⭐ Highlights
 
-✅ Machine Learning Integration
+✅ Developed an AI-powered Resume Analysis platform using Python, Streamlit, Scikit-Learn, Gemini API, and Jupyter Notebook.
 
-✅ Generative AI Integration
+✅ Built and trained a multi-class Machine Learning model using TF-IDF Vectorization and Logistic Regression for job role prediction.
 
-✅ ATS Optimization Engine
+✅ Performed data cleaning, preprocessing, feature engineering, model training, and evaluation using Jupyter Notebook.
 
-✅ Resume Role Prediction
+✅ Implemented ATS scoring, resume-to-job description matching, keyword gap analysis, and AI-powered resume improvement suggestions.
 
-✅ Cover Letter Generation
+✅ Developed Job Role Prediction across 25 career categories with confidence-based ranking.
 
-✅ Cloud Deployment
+✅ Built AI-powered Cover Letter Generation with multiple writing styles and PDF export functionality.
 
-✅ Real-World Career Application
+✅ Implemented a Resume Chat Assistant for context-aware resume Q&A and career guidance.
 
-✅ End-to-End Product Development
+✅ Added Bulk Resume Comparison to rank multiple resumes against a single job description.
+
+✅ Generated downloadable PDF reports containing ATS analysis and career insights.
+
+✅ Integrated Generative AI (Gemini API) for ATS analysis, resume enhancement, cover letter generation, and resume chat features.
+
+✅ Deployed the application on Streamlit Cloud with GitHub version control and automated updates.
+
+✅ End-to-End Machine Learning + NLP + Generative AI + Full-Stack Project Development.
+
 
 ---
 
