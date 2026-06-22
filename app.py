@@ -35,7 +35,7 @@ except:
 st.set_page_config(page_title="ResumeIQ", layout="wide", page_icon="📡")
 inject_theme()
 
-st.title("ResumeI")
+st.title("ResumeIQ — AI-powered Resume Analyzer")
 st.caption("Scan your resume against any job description — ATS score, role match, and rewrite suggestions.")
 
 if not GEMINI_API_KEY:
