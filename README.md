@@ -225,14 +225,6 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-### Yogesh U G
-- GitHub: https://github.com/ug8yogesh
-- Project: ResumeIQ
-
----
-
 ## ⭐ Highlights
 
 ✅ Developed an AI-powered Resume Analysis platform using Python, Streamlit, Scikit-Learn, Gemini API, and Jupyter Notebook.
@@ -259,6 +251,14 @@ streamlit run app.py
 
 ✅ End-to-End Machine Learning + NLP + Generative AI + Full-Stack Project Development.
 
+
+---
+## 👨‍💻 Author
+
+### Yogesh U G
+- IT-Anna University Student
+- GitHub: https://github.com/ug8yogesh
+- Project: ResumeIQ
 
 ---
 
