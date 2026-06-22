@@ -32,10 +32,10 @@ try:
 except:
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-st.set_page_config(page_title="AI Resume Analyzer", layout="wide", page_icon="📡")
+st.set_page_config(page_title="ResumeIQ", layout="wide", page_icon="📡")
 inject_theme()
 
-st.title("AI Resume Analyzer")
+st.title("ResumeIQ — AI-powered Resume Analyzer")
 st.caption("Scan your resume against any job description — ATS score, role match, and rewrite suggestions.")
 
 if not GEMINI_API_KEY:
