@@ -6,8 +6,6 @@ ResumeIQ is an intelligent AI-powered platform that helps job seekers optimize t
 
 🌐 **Live Demo:** https://resumeiq-umfhd3m4srmw7aa2ecpynp.streamlit.app/
 
-💻 **GitHub Repository:** https://github.com/ug8yogesh/ResumeIQ
-
 ---
 
 ## 📌 Problem Statement
